@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-stack developer building production-grade web platforms with real users, automation, and secure payment workflows. Experienced in taking ideas from concept to live systems and scaling them with minimal manual intervention.
+Full-stack developer building production-grade web platforms with real users, automation, and secure payment workflows.
+
+I focus on backend logic, admin systems, and integrations that reduce manual work and scale reliably. Most of my work involves turning ideas into live systems with payments, access control, and operational tooling.
 
 
 ## 🌐 Socials:
