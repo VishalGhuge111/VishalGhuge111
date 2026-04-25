@@ -27,64 +27,42 @@ Agri-marketplace connecting oilseed farmers with buyers via real-time auction bi
 ---
 
 ### [SIT ACM Website](https://github.com/VishalGhuge111/sit-acm-website) — Official Chapter Platform
-> Built and deployed as ACM Web Master
+> ACM Web Master — Built and deployed for SIT Pune chapter
 
-Official website for SIT ACM Student Chapter with event listings, certificate verification, team profiles, and admin dashboard for content management.
+Centralized platform for ACM chapter operations — event management, certificate verification, alumni directory, blog system, and role-protected admin dashboard.
 
-`Next.js 15` `TypeScript` `Firebase`
-
----
-
-### [EventFlow](https://github.com/VishalGhuge111/eventflow) — Event Management System
-
-`JavaScript` `Node.js`
-
----
-
-### [php-foundations](https://github.com/VishalGhuge111/php-foundations) — PHP & MySQL Practice
-
-Structured PHP learning repo covering forms, database operations with PDO, prepared statements, authentication, and CRUD — built as backend foundations for WordPress development.
-
-`PHP` `MySQL` `PDO`
-
----
-
-### [vishal-simple-plugin](https://github.com/VishalGhuge111/vishal-simple-plugin) — WordPress Plugin
-
-A WordPress plugin using shortcodes and browser storage, built to understand plugin architecture, hooks, and the WP API.
-
-`PHP` `WordPress`
+`Next.js 15` `TypeScript` `Firebase` `Cloudinary`
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages** — JavaScript, PHP, Python, TypeScript, C++
-
-**Frontend** — React, Next.js, Tailwind CSS, HTML, CSS
-
-**Backend** — Node.js, Express, PHP, Flask
-
-**Databases** — Firestore, MySQL, MongoDB, PostgreSQL
-
-**Tools** — Git, Firebase Admin SDK, Google Apps Script, Cashfree, Vercel, Render
+| Category | Technologies |
+|----------|-------------|
+| Languages | JavaScript, PHP, Python, TypeScript, C++ |
+| Frontend | React, Next.js, Tailwind CSS, HTML, CSS |
+| Backend | Node.js, Express, PHP, Flask |
+| Databases | Firestore, MySQL, MongoDB, PostgreSQL |
+| Tools | Git, Firebase Admin SDK, Google Apps Script, Cashfree, Vercel, Render |
 
 ---
 
 ## 🏆 Awards & Recognition
 
-- **Smart India Hackathon 2025 Winner** — National level, Software category
-- **Infotsav Hackatron Finalist** — Top teams from 800+ participants, IIIT Gwalior
-- **IEEE TechSangam 2K25 Finalist** — Top 50 out of 315+ teams, MIT ADT University
-- **MSBTE State-Level Project Competition Finalist**
+| Award | Details |
+|-------|---------|
+| Smart India Hackathon 2025 Winner | National level · Software category |
+| Infotsav Hackatron Finalist | Top teams · 800+ participants · IIIT Gwalior |
+| IEEE TechSangam 2K25 Finalist | Top 50 · 315+ teams · MIT ADT University |
+| MSBTE State-Level Project Competition | Finalist |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalGhuge111&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=VishalGhuge111&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGhuge111&layout=compact&theme=default&hide_border=true&count_private=true)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalGhuge111&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=VishalGhuge111&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGhuge111&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 ---
 
