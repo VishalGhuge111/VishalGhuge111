@@ -130,7 +130,7 @@ Centralized chapter operations platform: QR-based certificate verification, even
   max-width: 900px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 16px;
 ">
 
   <!-- Row 1 -->
@@ -143,7 +143,7 @@ Centralized chapter operations platform: QR-based certificate verification, even
   <div style="
     display: flex;
     width: 100%;
-    gap: 200px;
+    gap: 16px;
   ">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGhuge111&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&count_private=true"
@@ -159,7 +159,7 @@ Centralized chapter operations platform: QR-based certificate verification, even
       src="https://streak-stats.demolab.com?user=VishalGhuge111&theme=tokyonight&hide_border=true"
       style="
         flex: 1;
-        height: 20px;
+        height: 200px;
         object-fit: cover;
         border-radius: 12px;
         display: block;
