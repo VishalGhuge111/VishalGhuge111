@@ -49,14 +49,11 @@ I'm a final-year Computer Engineering student at SIT Lonavala, Pune. I build ful
 <img src="assets/t-github.svg" alt="git stats" width="100%"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishalGhuge111&show_icons=true&bg_color=06101c&title_color=22d3ee&text_color=cfe9f5&icon_color=a78bfa&border_color=1b3a52&border_radius=6" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGhuge111&layout=compact&bg_color=06101c&title_color=22d3ee&text_color=cfe9f5&border_color=1b3a52&border_radius=6" alt="Top languages"/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" width="49%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VishalGhuge111&background=06101C&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CFE9F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F93AA&stroke=1B3A52&border=1B3A52&border_radius=6" alt="Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGhuge111&bg_color=06101c&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=22d3ee&hide_border=true&title_color=22d3ee&radius=6" alt="Contribution graph" width="100%"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/VishalGhuge111/VishalGhuge111/output/github-snake.svg" alt="Contribution snake" width="100%"/>
